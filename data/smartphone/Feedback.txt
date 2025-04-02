@@ -1,0 +1,11 @@
+P1 - Regina, Data Science Master Student
+	- Kleine Schlaufen gehen schlecht
+P2 - Dominik, Mobile Computing Master Student
+	- # haben am meistens genervt
+	- Y, Q am schwierigsten
+	- Wenn A zeichnen, kommt M
+P3 - Miriam, Mobile Computing Master Student
+	- P hat genervt
+	- V von anderer Seite auch bisschen
+P4 - Lukas, Mobile Computing Master Student
+	- ungewollt Befehl für Nummernfeld ausgelöst

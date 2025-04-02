@@ -1,0 +1,6 @@
+App,Participant,Session,Block,Group,Condition,Entry_mode,Keystrokes,Characters,Time_(s),Speed_(wpm),TranscribedTextErrorRate(%),CorrectedTextErrorRate(%),KSPC
+Graffiti,P99,S99,B02,G99,C01,Graffiti,40,26,142.42,2.19,11.54,na,1.5385
+Graffiti,P99,S99,B02,G99,C01,Graffiti,43,26,118.20,2.64,11.54,na,1.6538
+Graffiti,P99,S99,B02,G99,C01,Graffiti,46,26,127.43,2.45,7.69,na,1.7692
+Graffiti,P99,S99,B02,G99,C01,Graffiti,39,26,115.24,2.71,3.85,na,1.5000
+Graffiti,P99,S99,B02,G99,C01,Graffiti,42,25,98.03,3.06,11.54,na,1.6800
