@@ -1,0 +1,37 @@
+Participant number,Age,Gender,"Computer Expertise","reason for doing the experimet/relation, paid/unpaid",Trial,Mouse speed,Enhance pointer precision on,Total time,Total mistakes,Type of mistakes,Notes
+1,43,W,Medium,"Random Person from Random Office, unpaid",1,low,on,"39,08",,,
+1,43,W,Medium,"Random Person from Random Office, unpaid",2,low,off,"34,78",,,
+1,43,W,Medium,"Random Person from Random Office, unpaid",3,medium,on,"29,17",,,
+1,43,W,Medium,"Random Person from Random Office, unpaid",4,medium,off,"24,00",,,Das sei ein angenehmes Setting
+1,43,W,Medium,"Random Person from Random Office, unpaid",5,fast,on,"20,83",,,
+1,43,W,Medium,"Random Person from Random Office, unpaid",6,fast,off,"48,71",1,Misclick,
+2,50,W,Medium,"Librarian, unpaid",1,medium,on,"21,63",,,
+2,50,W,Medium,"Librarian, unpaid",2,medium,off,"18,93",,,
+2,50,W,Medium,"Librarian, unpaid",3,fast,on,"25,73",,,
+2,50,W,Medium,"Librarian, unpaid",4,fast,off,"40,07",2,Misclick,"Meinte ""Es sei gar nicht so leicht wenn man schon älter und zittrig sei <br> und nicht so gut sehe"" und hat noch keine vertikale Maus verwendet"
+2,50,W,Medium,"Librarian, unpaid",5,low,on,"26,75",,,
+2,50,W,Medium,"Librarian, unpaid",6,low,off,"33,21",,,
+3,22,M,High,"Dorm room, unpaid",1,fast,on,"19,49",1,Misclick,
+3,22,M,High,"Dorm room, unpaid",2,fast,off,"28,00",8,Misclick,Ist normalerweise eine langsame Einstellung gewöhnt
+3,22,M,High,"Dorm room, unpaid",3,low,on,"16,82",1,Misclick,
+3,22,M,High,"Dorm room, unpaid",4,low,off,"22,13",0,,
+3,22,M,High,"Dorm room, unpaid",5,medium,on,"17,84",3,Misclick,
+3,22,M,High,"Dorm room, unpaid",6,medium,off,"16,07",2,Misclick,
+4,25,M,High,"Coworker, unpaid",1,low,off,"39,20",0,,
+4,25,M,High,"Coworker, unpaid",2,low,on,"18,22",1,Misclick,"Speed-Up hauptsächlich, da Teilnehmer gewusst hatte, was er machts. <br> Dass die Pointer Precision ""on"" ist, habe er nicht gemerkt"
+4,25,M,High,"Coworker, unpaid",3,medium,off,"19,95",1,Misclick,
+4,25,M,High,"Coworker, unpaid",4,medium,on,"21,61",0,,"Teilnehmer ist die mittlere Geschwindigkeit ""off"" gewohnt, <br> deshalb war diese Einstellung ungewohnt und ein ""ungutes Gefühl"""
+4,25,M,High,"Coworker, unpaid",5,fast,off,"33,41",1,Misclick,"Teilnehmer meinte, diese Einstellung sein unkontrollierbar"
+4,25,M,High,"Coworker, unpaid",6,fast,on,"22,94",0,,
+5,34,M,High,"Coworker, unpaid",1,medium,off,"19,29",2,Misclick,is used to using a vertical mouse
+5,34,M,High,"Coworker, unpaid",2,medium,on,"15,12",0,,
+5,34,M,High,"Coworker, unpaid",3,fast,off,"27,64",5,Misclick,
+5,34,M,High,"Coworker, unpaid",4,fast,on,"17,80",0,,
+5,34,M,High,"Coworker, unpaid",5,low,off,"30,93",0,,
+5,34,M,High,"Coworker, unpaid",6,low,on,"18,22",1,Misclick,
+6,24,M,High,"Acquaintance, unpaid",1,fast,off,"20,80",1,Misclick,
+6,24,M,High,"Acquaintance, unpaid",2,fast,on,"21,03",,,
+6,24,M,High,"Acquaintance, unpaid",3,low,off,"23,17",,,
+6,24,M,High,"Acquaintance, unpaid",4,low,on,"16,97",,,
+6,24,M,High,"Acquaintance, unpaid",5,medium,off,"16,26",5,Misclick,
+6,24,M,High,"Acquaintance, unpaid",6,medium,on,"15,97",,,Findet Zeiger-Beschleunigung eigentlich eher ungut
